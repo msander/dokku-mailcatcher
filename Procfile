@@ -1,0 +1,1 @@
+web: bundle exec mailcatcher -f --http-port $PORT --smtp-port 6001 --ip 0.0.0.0
